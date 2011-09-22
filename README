@@ -90,6 +90,9 @@ For any information on qemu, visit the website http://fabrice.bellard.free.fr/qe
 
 History
 -------
+tryout-vgabios: Sep 09 2011
+  - EachScape
+    . Added standard smartphone resolutions, for use with Android
 vgabios-0.6c : Apr 08 2009
   - Volker
     . added DPMS support to cirrus vgabios (patch from Gleb Natapov)
